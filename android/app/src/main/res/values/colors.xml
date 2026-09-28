@@ -1,0 +1,5 @@
+<resources>
+    <!-- Pre-RN window background. Matches the in-app loader so the very first
+         frame is branded instead of a white or black flash. -->
+    <color name="splashBackground">#0D1016</color>
+</resources>

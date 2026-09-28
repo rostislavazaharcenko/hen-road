@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D golden eighth music note, centered, dark graphite radial gradient background, crisp studio lighting, no text, no scene, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, near black graphite night stage, faint amber and cyan rim light, heavy vignette, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, neon night club stage with three glowing light pads, cyan amber and green beams, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark neon stage haze, low contrast for UI overlay, subtle amber glow, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result background, dark graphite stage with warm golden spotlight beam from above, moody, low contrast, no text, no UI elements"
+    },
+    {
+      "name": "sprite_hero_hen",
+      "type": "sprite",
+      "prompt": "One single cute cartoon hen musician wearing headphones, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_note_short",
+      "type": "sprite",
+      "prompt": "One single glossy 3D cyan square rhythm game note block, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_note_hold",
+      "type": "sprite",
+      "prompt": "One single glossy 3D green vertical capsule rhythm game hold note, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_trophy",
+      "type": "sprite",
+      "prompt": "One single glossy 3D golden star badge, centered icon, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_speaker",
+      "type": "sprite",
+      "prompt": "One single glossy 3D black stage speaker cabinet with amber cone, centered icon, isolated on plain white, no other objects"
+    }
+  ]
+}
